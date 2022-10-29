@@ -23,6 +23,8 @@ I'll also be uploading the tutorials on my YouTube channel!
 
 In Holy C there is no "`printf`" or "`cout`" statement, adding strings in double quotes itself acts as an output statement.
 
+### Hello World in the terminal
+
 For example
 ```HolyC
 C:/Home>"Hello World";
@@ -49,4 +51,14 @@ A similar blank page should appear, you write your code in the blank space:
 
 Write the previously mentioned code here:
 
-![HelloWorldHC]()
+![HelloWorldHC](https://raw.githubusercontent.com/The-Holy-Church-of-Terry-Davis/Holy-C-documentation/main/imgs/HelloWorldHC.png)
+
+
+Hit the `F5` key to run the file, upon succesful execution you should get an output in the terminal with "Hello World" and the execution time.
+
+And you have your first Hello World Program in Holy C, Terry would be proud!
+
+
+## Data Types and Variables
+
+
