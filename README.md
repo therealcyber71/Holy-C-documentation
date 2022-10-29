@@ -21,7 +21,7 @@ I'll also be uploading the tutorials on my YouTube channel!
 
 ## Hello world
 
-In Holy C there is no "printf" or "cout" statement, adding strings in double quotes itself acts as an output statement.
+In Holy C there is no "`printf`" or "`cout`" statement, adding strings in double quotes itself acts as an output statement.
 
 For example
 ```HolyC
@@ -36,3 +36,12 @@ The code can be written in the terminal itself, it's almost similar to using the
 feature, HolyC can be used as a Porgramming language as well to write terminal commands.
 
 It is also worth noting that statements after `//` are not read by the compiler, hence they are used as comments.
+
+
+### Hello world in a HolyC file
+To write to a file, you must first create it
+```HolyC
+C:/Home>Ed"NewFile.HC";
+```
+This should a similar popup:
+
