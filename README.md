@@ -43,5 +43,10 @@ To write to a file, you must first create it
 ```HolyC
 C:/Home>Ed"NewFile.HC";
 ```
-This should a similar popup:
+A similar blank page should appear, you write your code in the blank space: 
 
+![NewFileHC](https://github.com/The-Holy-Church-of-Terry-Davis/Holy-C-documentation/blob/main/imgs/NewFileHC.png?raw=true)
+
+Write the previously mentioned code here:
+
+![HelloWorldHC]()
