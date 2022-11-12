@@ -12,7 +12,7 @@ Got something to add? Feel free to make a pull request and I'll review it.
 ## What we'll be covering
 
 * [Hello World](https://www.youtube.com/watch?v=_k92KAVjkdc&ab_channel=CyberWasBored)
-* Data Types
+* [Data Types](https://www.youtube.com/watch?v=bHMKnrbaqiw&ab_channel=CyberWasBored)
 * Conditional Statements
 * Iteration statements
 * User defined functions
