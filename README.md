@@ -5,7 +5,7 @@ This Readme will hopefully serve as a Documentation for the Holy C language outs
 Got something to add? Feel free to make a pull request and I'll review it.
 
 **Prerequisites**
-* Some basic c knowledge
+* Some basic C knowledge
 * Assembly?! (Optional)
 * Setting up a virtual machine
 
@@ -77,7 +77,25 @@ This chart here should help you understand the different data types available in
 Signed integers allows you to store +ve as well as -ve integers, whereas unsigned allows you to store only +ve values.
 
 Let's get started with a simple variable declaration then!
+```HolyC
+C:/Home>I32 score;
+C:/Home>score = 69; //noice
+```
+
+Output: `Address and value of the variable "score" will be displayed.`
+
+By referring to the chart, you can do a lot more with these data types, now let's try adding two variables \
+```HolyC
+C:/Home>I32 fvar = 20;
+C:/Home>I32 svar = 40;
+C:/Home>I32 sum = fvar + svar;
+C:/Home>sum;
+```
+
+Output: `Address and value of the variable "sum", i.e. 60, will be displayed.`
+
+You can add, multiply, divide, subtract, floor divide (getting remainders), and do a lot more with variables.
 
 
-
+Now we'll try printing a string, you'll notice that all the data types say "integers", that's why we'll use the `U8` or the `I8`, since the corresponding C data type is `char`
 
