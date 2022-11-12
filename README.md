@@ -4,15 +4,21 @@
 This Readme will hopefully serve as a Documentation for the Holy C language outside of Temple OS \
 Got something to add? Feel free to make a pull request and I'll review it.
 
+**Prerequisites**
+* Some basic c knowledge
+* Assembly?! (Optional)
+* Setting up a virtual machine
+
 ## What we'll be covering
 
-* Hello World
+* [Hello World](https://www.youtube.com/watch?v=_k92KAVjkdc&ab_channel=CyberWasBored)
 * Data Types
 * Conditional Statements
 * Iteration statements
 * User defined functions
 * Classes and Objects
 * What you can do with Holy C
+* Some basic Algorithms and other exercises
 
 
 I'll also be uploading the tutorials on my YouTube channel!
@@ -61,4 +67,7 @@ And you have your first Hello World Program in Holy C, Terry would be proud!
 
 ## Data Types and Variables
 
+### Types of Data
+This chart here should help you understand the different data types available in HolyC and understand its corresponding type in C \
+![TheChart]()
 
