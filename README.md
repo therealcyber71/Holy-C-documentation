@@ -69,5 +69,15 @@ And you have your first Hello World Program in Holy C, Terry would be proud!
 
 ### Types of Data
 This chart here should help you understand the different data types available in HolyC and understand its corresponding type in C \
-![TheChart]()
+
+![TheChart](https://raw.githubusercontent.com/The-Holy-Church-of-Terry-Davis/Holy-C-documentation/main/imgs/TheChart.png)
+
+
+`I` indicates signed integer data type, `U` indicates unsigned integer data type.
+Signed integers allows you to store +ve as well as -ve integers, whereas unsigned allows you to store only +ve values.
+
+Let's get started with a simple variable declaration then!
+
+
+
 
