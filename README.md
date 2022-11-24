@@ -12,7 +12,7 @@ Got something to add? Feel free to make a pull request and I'll review it.
 ## What we'll be covering
 
 * [Hello World](https://www.youtube.com/watch?v=_k92KAVjkdc&ab_channel=CyberWasBored)
-* [Data Types](https://www.youtube.com/watch?v=bHMKnrbaqiw&ab_channel=CyberWasBored)
+* [Data Types](https://youtu.be/3Gmyzs1LJqk)
 * Conditional Statements
 * Iteration statements
 * User defined functions
@@ -98,4 +98,27 @@ You can add, multiply, divide, subtract, floor divide (getting remainders), and 
 
 
 Now we'll try printing a string, you'll notice that all the data types say "integers", that's why we'll use the `U8` or the `I8`, since the corresponding C data type is `char`
+
+```HolyC
+C:/Home>I8 *pntr = "Hello World";
+C:/Home>pntr; // outputs a huge ass number, address in this case
+C:/Home>Print"%d",pntr;
+```
+Output: Hello World with execution time
+
+### A brief note on pointers:
+Here's a simple example of using pointers in HolyC, pointers are variables that can store the address of another variable of the same datatype
+
+say X is a variable of type `int`, then it can store the address of another variable Y of the data type `int` only
+
+```HolyC
+//in a file
+
+I64 a = 10;
+I64 *ptr;
+ptr = &a;
+"Address = %d, Value = %d",p,*p;
+```
+Output: Address = address of a, Value = 10
+
 
